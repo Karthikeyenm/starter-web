@@ -4,11 +4,11 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-Adding some description to INtro section
+Adding some description to Intro section
 
 # Purpose
 
-Adding some description to Purpose section
+Adding some description to Purpose for better understanding of comparing files
 
 ## Deployment Success
 
