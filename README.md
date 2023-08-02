@@ -12,6 +12,8 @@ Adding some description to Purpose for better understanding of comparing files
 
 ## Deployment Success
 
+Description for Deployment of files
+
 ## How to Contribute
 
 Sample website with plenty of files for demos
